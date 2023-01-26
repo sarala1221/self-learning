@@ -1,0 +1,10 @@
+bookmyshow:
+  user:
+    name: dev
+    password: dev
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/bookmyshowdevdb
+    username: postgres
+    password: bookmyshowdev
+    driver-class-name: org.postgresql.Driver
