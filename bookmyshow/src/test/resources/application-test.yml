@@ -10,7 +10,3 @@ spring:
   jpa:
     show-sql: true
     database-platform: org.hibernate.dialect.H2Dialect
-bookmyshow:
-  user:
-    name: user
-    password: user
